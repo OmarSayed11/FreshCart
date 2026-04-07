@@ -1,0 +1,19 @@
+{
+  "routes": {
+    "/FreshCart": {},
+    "/FreshCart/brands": {},
+    "/FreshCart/cart": {},
+    "/FreshCart/categories": {},
+    "/FreshCart/forgetPassword": {},
+    "/FreshCart/home": {},
+    "/FreshCart/login": {},
+    "/FreshCart/register": {},
+    "/FreshCart/settings": {},
+    "/FreshCart/settings/main-page": {},
+    "/FreshCart/settings/main-page/hr": {},
+    "/FreshCart/settings/main-page/marketing": {},
+    "/FreshCart/settings/main-page/sales": {},
+    "/FreshCart/shop": {},
+    "/FreshCart/wishlist": {}
+  }
+}
